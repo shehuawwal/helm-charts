@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shehuawwal:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-28T21:10:21.950292+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 31aa9b019c64a1018e6842b08f7631a6e45c3089c983c3ac2a57438f24066e3a
+    name: shehuawwal
+    type: application
+    urls:
+    - charts/shehuawwal-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-28T21:10:21.948921+01:00"
